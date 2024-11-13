@@ -29,5 +29,6 @@ To run this program, you will need the following:
 
 
 **Clone the repository**:
-```bash git clone https://github.com/ZanethembaN/RetrieveTasks.git
+```bash
+ git clone https://github.com/ZanethembaN/RetrieveTasks.git
 cd RetrieveTasks
